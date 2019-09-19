@@ -2,6 +2,13 @@
 **Ethereum Project - FlightSurety**  
 FlightSurety is a blockchain smart contract that allows for purchasing insurance on airline flights.
 ****
+### Steps:
+1. Fund Airline
+2. Submit Flight to Oracle
+3. Purchase Insurance
+4. Update Flight Status
+5. Check and withdraw insurance credit
+****
 ### Quick Start
     npm install  
     truffle compile  
