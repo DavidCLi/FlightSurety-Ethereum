@@ -7,7 +7,11 @@ FlightSurety is a blockchain smart contract that allows for purchasing insurance
     truffle compile  
     truffle migrate --reset  
     truffle test  
+    npm run server
     npm run dev  
+      
+To view dapp:
+`http://localhost:8000`
 ****
 **Project Details**  
 Truffle v5.0.28 (core: 5.0.28)  
