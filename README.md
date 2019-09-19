@@ -14,10 +14,29 @@ FlightSuretyData.sol for data persistence
 FlightSuretyApp.sol for app logic and oracles code  
   
 **Contracts Functions**  
+### 1. Airline  
+    registerAirline
+    fund  
+    registerFlight  
+    
+### 2. Passenger  
+    insurePassenger
+    processFlightStatus  
+    payoutFunds  
 
+### 3. Oracle
+    fetchFlightStatus
+    registerOracle  
+    submitOracleResponse 
+      
 **Frontend**  
 ![image](https://github.com/DavidCLi/FlightSurety-Ethereum/blob/master/pics/Flight1.JPG)   
 ![image](https://github.com/DavidCLi/FlightSurety-Ethereum/blob/master/pics/Flight2.JPG)   
+  
+**Oracles (Server App)**   
+    Register Oracles
+    Oracle Updates  
+    Oracle Functionality  
 ****
 ### Quick Start
     npm install  
