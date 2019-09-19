@@ -12,6 +12,7 @@ FlightSurety is a blockchain smart contract that allows for purchasing insurance
 ### Contracts 
 FlightSuretyData.sol for data persistence  
 FlightSuretyApp.sol for app logic and oracles code  
+---
 **Contracts Functions**  
 
 ****
