@@ -15,6 +15,8 @@ FlightSuretyApp.sol for app logic and oracles code
   
 **Contracts Functions**  
 
+**Frontend**  
+
 ****
 ### Quick Start
     npm install  
