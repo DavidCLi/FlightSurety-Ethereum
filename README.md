@@ -34,9 +34,9 @@ FlightSuretyApp.sol for app logic and oracles code
 ![image](https://github.com/DavidCLi/FlightSurety-Ethereum/blob/master/pics/Flight2.JPG)   
   
 **Oracles (Server App)**   
-    Register Oracles
-    Oracle Updates  
-    Oracle Functionality  
+    Register Oracles  
+    Oracle Updates    
+    Oracle Functionality    
 ****
 ### Quick Start
     npm install  
