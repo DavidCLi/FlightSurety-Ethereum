@@ -16,7 +16,8 @@ FlightSuretyApp.sol for app logic and oracles code
 **Contracts Functions**  
 
 **Frontend**  
-
+![image](https://github.com/DavidCLi/FlightSurety-Ethereum/blob/master/pics/Flight1.JPG)   
+![image](https://github.com/DavidCLi/FlightSurety-Ethereum/blob/master/pics/Flight2.JPG)   
 ****
 ### Quick Start
     npm install  
