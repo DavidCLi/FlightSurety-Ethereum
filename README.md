@@ -4,9 +4,9 @@ FlightSurety is a blockchain smart contract that allows for purchasing insurance
 ****
 ### Steps:
 1. Fund Airline
-2. Submit Flight to Oracle
+2. Submit Flight to Oracle as initial status
 3. Purchase Insurance
-4. Update Flight Status
+4. Update Flight Status from Oracle
 5. Check and withdraw insurance credit
 ****
 ### Quick Start
